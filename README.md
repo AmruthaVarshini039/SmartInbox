@@ -1,0 +1,2 @@
+# SmartInbox
+Flask app
