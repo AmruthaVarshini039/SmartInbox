@@ -32,7 +32,7 @@ It combines everyday email features with intelligent tools powered by the **Groq
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Rushilch/Email.git
+git clone https://github.com/AmruthaVarshini039/Email.git
 cd Email
 ```
 
